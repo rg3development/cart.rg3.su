@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /hidden/
+Disallow: /upload/
+
+User-agent: Yandex
+Disallow: /admin/
+Disallow: /hidden/
+Disallow: /upload/
+#Host: www.your_host.ru
